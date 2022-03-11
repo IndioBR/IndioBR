@@ -29,5 +29,3 @@
  
   ![Snake animation](https://github.com/IndioBR/ellen2121/blob/output/github-contribution-grid-snake.svg)
  <div>
-
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=IndioBR&repo=IndioBR&theme=react)](https://github.com/IndioBR/IndioBR)
