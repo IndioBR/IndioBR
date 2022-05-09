@@ -1,9 +1,8 @@
-### Hi there, I am Jhonatan. But you can call me Indio.
+### Hello World, I am Jhonatan. But you can call me Indio.
 
-- 🌱 I’m currently learning JEST.
-- ⚡ Fun fact: I know ALL the songs of Disney's princess.
-- 🍖 Favorite Foods: Pizza and Burger.
-- 📚 Favorite Books: Eragon, The Lord Of The Rings and EVERY Rick Riordan's Book.
+
+✔️ Mi casa es su casa!
+✔️ You can see all my projects <a href="https://github.com/IndioBR?tab=repositories">here</a>! (But not the private ones, hihi).
 
  <div>
   <a href="https://github.com/IndioBR/">
