@@ -1,9 +1,32 @@
-### Hello World, I am Jhonatan. But you can call me Indio.
+# Hello World, I am Jhonatan. But you can call me Indio.
 
 
-✔️ Mi casa es su casa!
-✔️ You can see all my projects <a href="https://github.com/IndioBR?tab=repositories">here</a>! (But not the private ones, hihi).
+ 😉 Mi casa es su casa!
+ <br/>
+ 👨‍💻 You can see all my projects <a href="https://github.com/IndioBR?tab=repositories" target='blank'>here</a>! (But not the private ones, hihi).
+ <br/>
+ 😃 Or if you want to talk, please email me. I've always open to learn.
 
+
+ ## About me 🤓
+ 
+    - Fullstack Web Developer, graduated in @ <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a> in March, 2022.
+    - I disputed a vacancy with several people for financing, and I passed.
+    - Since the end of the course, I've been learning and deepening the skills.
+    - And trying to be a better dev every day.
+    
+    ###### Funny things about me
+    
+    - I have two dogs. And both are Dachshund.
+    - I LOVE Disney's and Pixar's movies.
+    - My favorite movies are <i>Coco</i> and <i>Inside Out</i>.
+    - I began my book collection last year. Includes <i>The Lord of The Rings, <strong>J. R. R. Tolkien</strong></i>, <i>Inheritance Cycle, <strong>C. Paolini</strong></i>, and <i>Ozob: Molotov Protocol, <strong>Leonel Caldela</strong></i>
+    - My favorite phrases:
+    
+     >  "Leve o tempo que você precisar prar achar a sua praia. E quando achar, não recue ante nenhum pretexto"
+     > "Os circuitos de consagração social serão tanto mais eficazes quanto maior a distância social do objeto consagrado"
+ 
+ 
  <div>
   <a href="https://github.com/IndioBR/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IndioBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
