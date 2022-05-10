@@ -23,7 +23,7 @@
  - I began my book collection last year. Includes <i>The Lord of The Rings, <strong>J. R. R. Tolkien</strong></i>, <i>Inheritance Cycle, <strong>C. Paolini</strong></i>, and <i>Ozob: Molotov Protocol, <strong>Leonel Caldela</strong></i>
  - My favorite phrases:
 
-  >  "Leve o tempo que você precisar prar achar a sua praia. E quando achar, não recue ante nenhum pretexto"
+  >  "Leve o tempo que você precisar prar achar a sua praia. E quando achar, não recue ante nenhum pretexto" <br/>
   > "Os circuitos de consagração social serão tanto mais eficazes quanto maior a distância social do objeto consagrado"
  
  
