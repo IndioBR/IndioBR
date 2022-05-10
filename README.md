@@ -10,21 +10,21 @@
 
  ## About me 🤓
  
-    - Fullstack Web Developer, graduated in @ <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a> in March, 2022.
-    - I disputed a vacancy with several people for financing, and I passed.
-    - Since the end of the course, I've been learning and deepening the skills.
-    - And trying to be a better dev every day.
-    
-    ###### Funny things about me
-    
-    - I have two dogs. And both are Dachshund.
-    - I LOVE Disney's and Pixar's movies.
-    - My favorite movies are <i>Coco</i> and <i>Inside Out</i>.
-    - I began my book collection last year. Includes <i>The Lord of The Rings, <strong>J. R. R. Tolkien</strong></i>, <i>Inheritance Cycle, <strong>C. Paolini</strong></i>, and <i>Ozob: Molotov Protocol, <strong>Leonel Caldela</strong></i>
-    - My favorite phrases:
-    
-     >  "Leve o tempo que você precisar prar achar a sua praia. E quando achar, não recue ante nenhum pretexto"
-     > "Os circuitos de consagração social serão tanto mais eficazes quanto maior a distância social do objeto consagrado"
+ - Fullstack Web Developer, graduated in @ <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a> in March, 2022.
+ - I disputed a vacancy with several people for financing, and I passed.
+ - Since the end of the course, I've been learning and deepening the skills.
+ - And trying to be a better dev every day.
+
+###### Funny things about me
+
+ - I have two dogs. And both are Dachshund.
+ - I LOVE Disney's and Pixar's movies.
+ - My favorite movies are <i>Coco</i> and <i>Inside Out</i>.
+ - I began my book collection last year. Includes <i>The Lord of The Rings, <strong>J. R. R. Tolkien</strong></i>, <i>Inheritance Cycle, <strong>C. Paolini</strong></i>, and <i>Ozob: Molotov Protocol, <strong>Leonel Caldela</strong></i>
+ - My favorite phrases:
+
+  >  "Leve o tempo que você precisar prar achar a sua praia. E quando achar, não recue ante nenhum pretexto"
+  > "Os circuitos de consagração social serão tanto mais eficazes quanto maior a distância social do objeto consagrado"
  
  
  <div>
